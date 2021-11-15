@@ -26,7 +26,7 @@ const Column3D = ({ data }) => {
     dataSource: {
       // Chart Configuration
       chart: {
-        caption: "Stars per language",
+        caption: "Stars per REPOS",
         xAxisName: "Repositories",
         yAxisName: "Stars",
         xAxisNameFontSize: "20px",
